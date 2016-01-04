@@ -1,0 +1,1 @@
+ssh-add -L|grep identities > /dev/null && ssh-add /path/to/ssh/private/key
